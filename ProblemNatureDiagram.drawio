@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T21:35:15.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i7_f-h-zOOMJAfPNL-tD" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T21:38:37.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VFHncB2GIYDXRBwT__ya" version="24.6.4" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="5" value="Cause 4" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="36.458333333333236" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Problem" style="whiteSpace=wrap;strokeWidth=3" parent="1" vertex="1">
+        <mxCell id="8" value="Natureza" style="whiteSpace=wrap;strokeWidth=3" parent="1" vertex="1">
           <mxGeometry x="680" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=none;strokeWidth=4" parent="1" target="8" edge="1">
@@ -568,7 +568,7 @@
         <mxCell id="204" value="Cause 3" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="475.8333333333331" y="111.52777777777752" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="205" value="Cause 6" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
+        <mxCell id="205" value="" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="475.8333333333331" y="401.52777777777754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="206" value="" style="edgeStyle=none;exitX=0.5;exitY=1;strokeWidth=3" parent="1" source="204" edge="1">
