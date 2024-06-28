@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T18:09:05.956Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" etag="EWLMBf0dlbqBqziP9kub" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T18:43:13.377Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" etag="UXlsSwXNEz2JHQhDBAGy" version="24.6.4" type="github">
   <diagram name="Página-1" id="zoD6avPEiWoiR3HsgUsf">
     <mxGraphModel dx="393" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="E9ZPrNACv-dQJbDyrwMg-29" value="Intangível" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=3;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="-290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E9ZPrNACv-dQJbDyrwMg-37" value="Busca Cura" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="287" y="-378" width="87" height="130" as="geometry" />
+        <mxCell id="E9ZPrNACv-dQJbDyrwMg-37" value="identificado&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="286.5" y="-378" width="87" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="E9ZPrNACv-dQJbDyrwMg-39" value="Busca Melhora&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="E9ZPrNACv-dQJbDyrwMg-39" value="Compreendido" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="477.5" y="-378" width="85" height="130" as="geometry" />
         </mxCell>
         <mxCell id="E9ZPrNACv-dQJbDyrwMg-41" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="dQm805kbuFht44Tf5tw2-2" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="-235" width="53" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="df2aP4I4yvwwnGdj_dpw-1" value="Desejo&lt;div&gt;Inovação&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-160" width="97.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OWKU0lW2eaKVDpcxZm1w-1" value="Necessidade&amp;nbsp;&lt;div&gt;Solução&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-150" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
