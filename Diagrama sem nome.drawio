@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T17:02:41.030Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" etag="lRXdJfl2WRFXeWrQSWcA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T17:12:37.057Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" etag="dOYHASqbDpWPXDQXiwGB" version="24.6.4" type="github">
   <diagram name="Página-1" id="zoD6avPEiWoiR3HsgUsf">
-    <mxGraphModel dx="416" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="322" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,11 +25,11 @@
         <mxCell id="E9ZPrNACv-dQJbDyrwMg-29" value="Intangível" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=3;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="520" y="-290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E9ZPrNACv-dQJbDyrwMg-37" value="Curar" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="E9ZPrNACv-dQJbDyrwMg-37" value="Busca Cura" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="287" y="-378" width="87" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="E9ZPrNACv-dQJbDyrwMg-39" value="Criar" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="478" y="-378" width="85" height="130" as="geometry" />
+        <mxCell id="E9ZPrNACv-dQJbDyrwMg-39" value="Busca Melhora&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="-378" width="85" height="130" as="geometry" />
         </mxCell>
         <mxCell id="E9ZPrNACv-dQJbDyrwMg-41" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="412.75" y="-352.75" width="26.5" height="104" as="geometry" />
